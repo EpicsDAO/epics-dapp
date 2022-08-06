@@ -1,0 +1,11 @@
+{
+  "title": "Home",
+  "description": "Buidl to Earn. Epics is a decentralized crowdsourcing platform for open source software development.",
+  "pleaseConnect": "Please connect your Solana wallet 👛",
+  "wallet": "Wallet",
+  "balance": "Balance",
+  "getBalanceError": "Failed to fetch balance. Please try it later",
+  "airdropSuccess": "You've got 1 SOL 💰",
+  "update": "Update",
+  "tryLater": "Something went wrong. Please try it later."
+}
